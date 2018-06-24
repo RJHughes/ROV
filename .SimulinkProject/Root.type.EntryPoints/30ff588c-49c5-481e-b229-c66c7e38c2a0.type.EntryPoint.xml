@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="startup/set_work_folder.m" Name="set_work_folder">
+    <Extension Value="a4d69373-4e48-4b21-8cfb-a19138cdb804" Name="StartUpPrev" />
+</Info>
